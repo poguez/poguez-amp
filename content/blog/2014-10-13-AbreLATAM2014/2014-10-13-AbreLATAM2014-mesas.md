@@ -11,8 +11,9 @@ Hace apenas un par de días tuvo lugar AbreLATAM 2014, el 30 de Septiembre del a
 la oportunidad de participar en el evento que ocurrió en Uruguay durante 2013. Este año, 9 de 10 personas del equipo de
 Codeando México estuvimos presentes para colaborar.
 
+![El Team for hacking](./team-hacking.jpg)
 
-**AbreLATAM 2014 fue una desconferencia**
+## AbreLATAM 2014 fue una desconferencia
 
 
 Personalmente me gustan mucho los seminarios y desconferencias, pues son espacios donde múltiples personas se
@@ -27,7 +28,7 @@ técnicos como Codeando México. Es ahí donde es evidente nuestra participació
 comunidad latinoamericana.
 
 
-**Las Mesas en las que participé**
+## Las Mesas en las que participé
 
 AbreLATAM es un evento  que dura solamente un día y hay muchas experiencias que compartir, tomé un rol activo a pesar de que no lo
 había pensado así originalmente. Acompañé la discusión técnica en Open Data de las mesas en las que trabajé y tomé
@@ -38,7 +39,9 @@ notas para después compartirlas, las discusiones se concentraron en:
 * ¿Cómo podemos integrar un repositorio de datos abiertos en América Latina?
 
 
-***Estándares y formatos de datos abiertos***
+### Estándares y formatos de datos abiertos
+
+![Mesa de Datos](mesa-datos.jpg)
 
 En la mesa de estándares y formatos de datos abiertos se dio la vez una plática muy técnica pero al mismo tiempo muy
 nutrida para los que fueron sin saber mucho al respecto. Discutimos mucho sobre los formatos en los que se deben de
@@ -96,8 +99,10 @@ Para cerrar nuestra experiencia en esta mesa hablamos sobre [Datamx.io](http://d
 de datos donde ayudamos a particulares y a organizaciones a convertir datos públicos en formatos cerrados o propietarios
 en datos de formatos legibles por máquinas para su análisis.
 
-***Base homologada de datos en la región. ¿Open Data u Open API?***
 
+### Base homologada de datos en la región. ¿Open Data u Open API?
+
+![Poplus](./poplus.jpg)
 Otra de las mesas que resulta ser muy interesante es donde discutimos sobre el uso de  **interfaces de programación de
 aplicaciones (API por sus siglas en inglés)** contra  el uso de bases de datos en formatos abiertos. Una parte importante de esta discusión
 ocurrió alrededor de los casos de uso sobre cuándo utilizar una interfaz de programación de aplicaciones y sobre cuándo utilizar

@@ -37,7 +37,7 @@ un lugar secreto donde estaban sirviendo fideos. Hasta entonces no lo había vis
 la biblioteca por adentro de la cafetería.
 
 
-{% include image.html url="/assets/images/ramyeon/ramyeon_arroz.jpg" width="100%" description="Cheeselicious" %}
+![Cheeselicious Ramyeon](./ramyeon_arroz.jpg) 
 
 
 Ahí solamente hay una cajera y una señora preparando al menos 5 platos de fideos (Ramen 라면) a la vez sobre la parrilla.
@@ -58,9 +58,6 @@ Fun fact: se dice que el ramen se consumió mucho en Japón después de la segun
 muy favorables.
 </cite>
 
-
-
-
 La señora que prepara los fideos, a quien por definición le asignaremos el alias  Mrs. Ramyeon, es toda una celebridad en la escuela
 y a decir de mi compañero de cuarto, coreano, prepara los mejores fideos de COREA. No sé a cuantos y que lugares haya ido a comer
 Ramyeon, ni si en su familia hasta el agua se les queme, pero por experiencia propia puedo decirles que están muy buenos. La
@@ -69,11 +66,11 @@ kimchi al igual que el agua afortunadamente es cortesía de la casa y puedes tom
 comerlos es: primero comes los fideos con el Kimchi, sin terminarte el caldo, una vez terminados los fideos puedes comer tu
 arroz a cucharadas y sopeado.
 
-{% include image.html url="/assets/images/ramyeon/kimchi.jpg" width="100%" description="Kimchi" %}
+![Kimchi](./kimchi.jpg)
 
 El Ramyeon es considerado económicamente como un bien inferior, el cual cuando bajan los ingresos su demanda aumenta. En
-realidad no sé cuando sea la temporada en la que se consuman más fideos en la escuela, pero para analizar los [Freakonomics]
-(http://en.wikipedia.org/wiki/Freakonomics) de este platillo bastaría con  hacerle una entrevista a Mrs. Ramyeon, quien es
+realidad no sé cuando sea la temporada en la que se consuman más fideos en la escuela, pero para analizar los 
+[Freakonomics](http://en.wikipedia.org/wiki/Freakonomics) de este platillo bastaría con  hacerle una entrevista a Mrs. Ramyeon, quien es
 una celebridad en potencia.
 
 el siempre fan del queso, Noé.

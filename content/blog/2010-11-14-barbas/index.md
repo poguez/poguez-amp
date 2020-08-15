@@ -16,8 +16,15 @@ un lugar muy cercano a varios lugares turísticos en Seoul. Ahí puedes encontra
 baratos en general y algunos restaurantes de precios muy accesibles.
 
 ![Callejón con comida en Anguk-dong (안국동).](./callejon.jpg)
+<cite>
+  Callejón con comida en Anguk-dong (안국동).
+</cite>
+
 
 ![Banana Backpackers Hostel](./bananas.jpg)
+<cite>
+  Banana Backpackers Hostel
+</cite>
 
 Cerca el hostal caminamos sin destino alguno y con él único propósito de encontrar un lugar donde alimentar
 nuestras ya rumiantes tripas. No quisimos pedir ningún tipo de  referencia para agregarle un poco de misterio
@@ -37,8 +44,9 @@ Más adelante salimos a caminar y nos encontramos con un par de coreanos que dic
 que en coreano se llaman barbas de azúcar. Vean la historia de como se hacen esos dulces.
 
 `youtube:https://www.youtube.com/embed/xCHnOkXEC1E`
+<cite>
+  Korea Medley
+</cite>
 
-```
 
-description="Korea Medley"
-```
+Noé.

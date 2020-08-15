@@ -29,7 +29,8 @@ desarrollo web full-stack, sistemas ubicuos, sistemas distribuidos y análisis/v
 
 Todos los días me esfuerzo por ser una mejor persona y espero que ninguno de los puntos de vista que exponga
 te incomoden, no son definitivos y son perfectibles. Siempre estoy abierto a escuchar nuevas ideas y proyectos,
-puedes encontrarme en: [noe@hackersandfounders.com](mailto:noe@hackersandfounders.com)
+puedes encontrarme en: ~~noe@hackersandfounders.com~~ [noe@devlabs.com.mx](mailto:noe@devlabs.com.mx)
+
 
 Bienvenido a mi blog, ojalá podamos mejorar nuestro entorno y oportunidades juntos.
 
