@@ -1,7 +1,7 @@
 {
-  "name": "gatsby-starter-blog-amp-to-pwa",
+  "name": "El blog de Noe Dominguez",
   "private": true,
-  "description": "A starter for a blog(AMP and PWA) powered by Gatsby and Markdown",
+  "description": "Powered by amp to pwa gatsby starter",
   "version": "0.1.0",
   "author": "Tomoyuki Kashiro <ksrtmyk@gmail.com>",
   "bugs": {
@@ -10,6 +10,7 @@
   "dependencies": {
     "gatsby": "^2.1.10",
     "gatsby-image": "^2.0.29",
+    "gatsby-plugin-netlify": "^2.2.4",
     "gatsby-plugin-feed": "^2.0.13",
     "gatsby-plugin-google-analytics": "^2.0.14",
     "gatsby-plugin-html2amp": "^0.4.0",
