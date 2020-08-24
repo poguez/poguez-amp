@@ -26,7 +26,7 @@ están tan familiarizados con la jerga de la computación y la tecnología.
 
 <br>
 <br>
-{% include iframe.html url="http://www.aviancaenrevista.com/ediciones/flips/Avianca_en_Revista_Ed_18/index.html#/254/" width="100%" description="La revista en web es visible en PC"%}
+<iframe src="http://www.aviancaenrevista.com/ediciones/flips/Avianca_en_Revista_Ed_18/index.html#/254/" width="600" height="400""></iframe>
 
 Incluso si quieres bajarla puedes hacerlo [aquí en PDF](http://www.aviancaenrevista.com/ediciones/flips/Avianca_en_Revista_Ed_18/pubData/source/AVIANCA%2018.pdf) y ver la página 253.
 

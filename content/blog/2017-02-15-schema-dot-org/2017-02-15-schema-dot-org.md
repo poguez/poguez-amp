@@ -37,7 +37,10 @@ Se me ocurren muchas cosas con comida, me he dado cuenta que foursquare-Swarm es
 Crear vocabularios y un sistema más especializado probablemente nos podría ayudar a encontrar mejor información 
 sobre qué visitar en México para comer. 
 
-{% include image.html url="/media/2017-02-15-schema-dot-org/diningcode.jpg" width="50%" left="25%" description="Aplicación de Android Dining Code(다이닝코드)" %}
+![Aplicación de Android Dining Code(다이닝코드)](./diningcode.jpg)
+<cite>
+Aplicación de Android Dining Code(다이닝코드)
+</cite>
 
 Algo que me gusta de Corea es la manera en que hay servicios acoplados a sus necesidades y a su cultura.
 Tal vez en otra ocasión podamos hacer un overview de  [Dining Code](http://www.diningcode.co.kr/) que es una aplicación

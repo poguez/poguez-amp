@@ -43,8 +43,12 @@ Te invito a que veas el video y dejes un par de comentarios para enriquecer
 la plática y de lo que mejor te ha servido en tu experiencia:
 
 
-{% include iframe.html url="https://www.youtube.com/embed/ckTO-XeiEKE" width="100%" description="Hackertalk 41: Startups, emprendimiento social y desarrollo de software." %}
+`youtube:https://www.youtube.com/embed/ckTO-XeiEKE`
 
+<cite>
+    Hackertalk 41: Startups, emprendimiento social y desarrollo de software.
+</cite>
+<br>
 
 En este episodio estuvimos en [La Madriguera](http://www.la-madriguera.mx)
 en San Pedro Cholula, que muy amablemente recibe las meetups de Software en Puebla.

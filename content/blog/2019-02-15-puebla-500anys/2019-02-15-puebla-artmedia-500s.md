@@ -15,7 +15,10 @@ Sin embargo, Puebla es una capital que aún se está definiendo en cómo utiliza
 ### Quiénes hacen Art Media y cómo lo usamos
 Uno de los polos de desarrollo académico de que más admiro es el MIT Media Lab. Es un lugar en donde obtener un título de Artes exige el uso de la ingeniería para desarrollar nuevos temas académicos. A pesar de que pareciera que ahí ocurren proyectos interdisciplinarios, Joichi Ito -el director- lo define más como un lugar donde suceden proyectos antidisciplinarios. Estudiantes y profesores no solo colaboran entre disciplinas, sino que exploran el espacio que hay entre ellas y más allá. Actualmente, el laboratorio se define como un lugar donde ocurren proyectos en la intersección de tecnología, medios, ciencia, arte y diseño; en donde el mundo del cómputo no consiste simplemente en las computadoras, sino en adaptarlas a nuestro vivir, pues están en todos lados. Hoy en día, a través de ellas entregamos y recibimos un mensaje; son un medio de comunicación.
 
-{% include image.html url="/media/2019-02-15-puebla-500anys/whiplash.jpg" width="50%" description="<a href=\"https://amzn.to/2X3LslY\">Whiplash: How to Survive Our Faster Future by Joi Ito</a>" %}
+![Whiplash: How to Survive Our Faster Future by Joi Ito](./whiplash.jpg)
+<cite>
+Whiplash: How to Survive Our Faster Future by Joi Ito
+</cite>
 
 ### La tecnología como coordinadora de la nueva organización ciudadana
 
@@ -23,7 +26,10 @@ Las redes sociales e internet han demostrado ser plataformas tecnológicas út
 
 Con la tecnología emergieron grupos y herramientas enfocados en la distribución de recursos, verificación de hechos, organización de trabajo, evaluación de riesgos, entre otras soluciones. De manera ejemplar, la utilizamos para distribuir recursos de una nueva manera, lo que rebasó la capacidad de nuestro Gobierno. En cuanto a la gobernanza, ciudadanos y Gobierno han creado nuevos canales de comunicación y de rendición de cuentas. La disponibilidad y el derecho a la información pública han hecho posible una dinámica nueva para la toma de decisiones y comunicación entre ambos.
 
-{% include image.html url="/media/2019-02-15-puebla-500anys/revisa_mi_grieta_bot.jpg" width="100%" description="Diseño de Bot para Revisa Mi Grieta publicado en Fortune México" %}
+![Diseño de Bot para Revisa Mi Grieta publicado en Fortune México](./revisa_mi_grieta_bot.jpg)
+<cite>
+  Diseño de Bot para Revisa Mi Grieta publicado en Fortune México
+</cite>
 
 ### La tecnología puede ser transformadora, pero nuestras ciudades se mueven en la dirección contraria
 Podríamos decir que aprovechamos la tecnología al conectar a una persona aislada con otras y con recursos e información. La tecnología puede ser vinculante y promotora de la autonomía. Un ejemplo de cómo puede ayudar a conectar es la aplicación de citas Tinder, pues MIT Technology Review reportó que ha vinculado a personas desconectadas y ha aumenta- do los matrimonios interraciales<sup>1 </sup>. Al mismo tiempo, tenemos una respues- ta tecnológica para crear un sistema financiero descentralizado a través de la tecnología del blockchain y Bitcoin<sup>2</sup>. La moneda electrónica ha permitido crear un mercado de bienes y servicios descentralizado que, además, permite la transparencia en las transacciones. Todos los usuarios de Bitcoin están sujetos a la autonomía y transparencia por defecto.

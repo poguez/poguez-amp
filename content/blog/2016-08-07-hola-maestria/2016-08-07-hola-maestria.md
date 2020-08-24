@@ -7,8 +7,6 @@ comments: true
 date: "2016-08-07"
 ---
 
-# Tomando oportunidades
-
 Este blogpost que hoy escribo es para dar gracias. A partir de julio dejé de tiempo completo a dos organizaciones con las que he colaborado por estos últimos dos años: [Cívica Digital](http://civica.digital) y [Codeando México](http://codeandomexico.org). En el camino nos conocimos muchos colaborando y estoy muy agradecido. No se preocupen, seguiré en contacto en lo que les pueda ayudar.
 
 Prontamente -en Septiembre- comenzaré una maestría en [Ciencias Computacionales](http://cs.kaist.ac.kr) en el [Korean Advanced Institute of Science and Technology](http://www.kaist.edu). Un nuevo proyecto que tenía rezagado hace tiempo y que me emociona mucho. Me emociona porque voy con una beca del gobierno de la República de Corea que me permitirá estudiar sin preocupaciones de manutención.
