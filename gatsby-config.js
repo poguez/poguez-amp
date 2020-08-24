@@ -125,7 +125,7 @@ module.exports = {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        short_name: `Noedominguez.com`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,
@@ -140,8 +140,8 @@ module.exports = {
         gaConfigPath: 'gaConfig.json',
         dist: 'public/amp',
         serviceWorker: {
-          src: 'https://gatsby-starter-blog-amp-to-pwa.netlify.com/sw.js',
-          'data-iframe-src': 'https://gatsby-starter-blog-amp-to-pwa.netlify.com/amp-install-serviceworker.html',
+          src: 'https://amp.noedominguez.com/sw.js',
+          'data-iframe-src': 'https://amp.noedominguez.com/amp-install-serviceworker.html',
           layout: 'nodisplay'
         }
       }

@@ -1,11 +1,11 @@
 {
-  "name": "El blog de Noe Dominguez",
+  "name": "noedominguez-blog",
   "private": true,
-  "description": "Powered by amp to pwa gatsby starter",
+  "description": "Powered by gatsby and AMP",
   "version": "0.1.0",
-  "author": "Tomoyuki Kashiro <ksrtmyk@gmail.com>",
+  "author": "Noé Domínguez Porras",
   "bugs": {
-    "url": "https://github.com/tomoyukikashiro/gatsby-starter-blog-amp-to-pwa/issues"
+    "url": "https://github.com/poguez/poguez-amp"
   },
   "dependencies": {
     "gatsby": "^2.1.10",
@@ -39,13 +39,11 @@
     "typography": "^0.16.18",
     "typography-theme-wordpress-2016": "^0.16.18"
   },
-  "homepage": "https://github.com/tomoyukikashiro/gatsby-starter-blog-amp-to-pwa#readme",
+  "homepage": "https://noedominguez.com",
   "keywords": [
     "gatsby",
-    "amp",
-    "pwa"
+    "amp"
   ],
-  "license": "MIT",
   "main": "n/a",
   "repository": {
     "type": "git",
