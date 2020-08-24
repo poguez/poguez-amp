@@ -18,7 +18,7 @@ Estuvimos un par de años en contacto continuo con Gobierno, sociedad civil y ci
 - La creación de herramientas de código que promueven la colaboración en práctica.
 
 
-<div class="zoomable"><img src="/media/2015-12-10-ceremonia-premio-transparencia/01_mantra_datamx.jpg"></div>
+![Mantra Datamx](./01_mantra_datamx.jpg)
 
 
 [Datamx](http://datamx.io) logró desarrollar una solución orgánica de lo que los ciudadanos necesitaban, siempre ha estado en nuestra filosofía el construir herramientas con los ciudadanos y no para ciudadanos, promovemos un flujo creativo que incluye al usuario. [Datamx](http://datamx.io) lleva el mismo en su mantra.
